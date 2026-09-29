@@ -47,7 +47,7 @@ Includes randomly generated exercises, drag-and-drop interactions for mouse and 
 
 Built with **React, Next.js, TypeScript, PostgreSQL and Google AI APIs**.
 
-### [ezoteric.net](https://ezoteric.net/)
+### [ezoteric](https://ezoteric-app.vercel.app)
 
 A bilingual web application with AI-powered features, authentication, chat history, appointment scheduling and database-driven content.
 
