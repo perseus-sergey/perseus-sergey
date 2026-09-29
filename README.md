@@ -39,7 +39,7 @@ The platform combines a large satellite TV information database with automated d
 
 The project has evolved from native PHP to **Laravel and later Next.js**, with **MySQL, Node.js, Nginx, PM2 and GitHub Actions** used across different stages of development.
 
-### [1plus2.fun](https://1plus2.vercel.app/)
+### [1plus2](https://1plus2.vercel.app/)
 
 A bilingual educational platform for children featuring interactive math and language learning.
 
