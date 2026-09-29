@@ -59,5 +59,3 @@ I like building practical products, solving real-world problems and understandin
 
 I’m currently focused on modern **React / Next.js / TypeScript full-stack development** and exploring new opportunities.
 
-📫 [My CV](https://perseus-sergey.github.io/My-cv/)
-
